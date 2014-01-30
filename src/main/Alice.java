@@ -33,8 +33,6 @@ import event.ReplyEvents;
 
 public class Alice extends Artist
 {
-	private static final String ACCOUNT = "dATrade";
-	private static final String PASSWORD = "minderbender";
 	
 	private static final String TRANSACTIONS_FILENAME = "data\\transactions.txt";
 	private static final String HISTORY_FILENAME = "data\\history.txt";
@@ -42,14 +40,10 @@ public class Alice extends Artist
 	private static final String CRITIQUES_FILENAME = "data\\toppers.txt";
 	private static final String BACKUP_FILENAME = "backup.txt";
 	
-	private static final String ALICE_EMAIL = "datradedeviantart@gmail.com";
-	private static final String ALICE_PASSWORD = "Feliciano";
 	private static final String NOTIFY_DEST = "2096408363@vtext.com";
 	
 	private static final String SQL_SERVER = "localhost";
 	private static final String SQL_USERNAME = "root";
-	private static final String SQL_PASSWORD = "'a;,oq123";
-	private static final String SQL_DATABASE = "deviantart";
 	
 	private static final int NUM_DRIVERS = 4;
 	
