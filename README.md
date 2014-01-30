@@ -11,7 +11,7 @@ This program facilitates trading equivalent to the sale of Like's on Facebook, o
 
 The program:
 
-Although the program is not particularly long, it is quite dense. Virtually all of Alice's operations are multithreaded, with more than a dozen threads running at all times, peaking at several dozen at high loads. Alice has to also remember records of more than ten thousand users in its current state, and uses a MySQL database to maintain this scalably. Web interactions are done either via Java's URL object, for quick scraping of various pages, or by the Selenium Webdriver, a web-testing framework turned into a bot.
+Although the program is not particularly long, it is quite dense. Virtually all of Alice's operations are multithreaded, with more than a dozen threads running at all times, peaking at several dozen at high loads. Alice also has to remember records of more than ten thousand users in its current state, and uses a MySQL database to maintain this scalably. Web interactions are done either via Java's URL object, for quick scraping of various pages, or by the Selenium Webdriver, a web-testing framework turned into a bot.
 
 What's uploaded on the repository is only the source code: Alice requires many data files, external libraries, and a database to function properly.
 
