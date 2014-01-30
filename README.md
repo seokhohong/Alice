@@ -1,7 +1,7 @@
-Alice
+Alice (The Program)
 =====
 
-Built: Aug-Sept, Maintained: Sept-Current. Alice is the name to the program which is essentially a web-crawler/bot that runs a business on the social networking site, DeviantArt. Visit Alice's page at http://datrade.deviantart.com/.
+Built: Aug-Sept, Maintained: Sept-Current. Alice is essentially a web-crawler/bot that runs a business on the social networking site, DeviantArt. Visit Alice's page at http://datrade.deviantart.com/.
 
 Function:
 This program facilitates trading equivalent to the sale of Like's on Facebook, or views on Youtube, except the transactions are wholly legitimate. On DeviantArt, there are counts for similar social currencies, and Alice manages both sides of the transaction, accepting payments from those who wish to buy them, and paying those who give them to the purchasers. This maintainence is far too tedious to perform by hand, and thus is only viable on a large scale by automation. Since Alice's construction, she has been extended to encompass numerous features of DeviantArt, from transacting followers (Watches), to reading critiques on artworks.
