@@ -1,7 +1,7 @@
 Alice (The Program)
 =====
 
-Built: Aug-Sept, Maintained: Sept-Current. 
+Built: Aug-Sept 2013, Maintained: Sept-Current. 
 
 Alice is essentially a web-crawler/bot that runs a business on the social networking site, DeviantArt. Visit Alice's page at http://datrade.deviantart.com/.
 
